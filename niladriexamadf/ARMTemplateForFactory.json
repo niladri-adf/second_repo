@@ -313,11 +313,11 @@
 					"recurrence": {
 						"frequency": "Day",
 						"interval": 1,
-						"startTime": "2022-11-02T05:01:00",
+						"startTime": "2022-11-01T00:00:00",
 						"timeZone": "India Standard Time",
 						"schedule": {
 							"minutes": [
-								37
+								48
 							],
 							"hours": [
 								10
