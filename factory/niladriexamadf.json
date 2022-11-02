@@ -1,0 +1,9 @@
+{
+	"name": "niladriexamadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dfaf71be-aedb-44ab-864b-f862d749d7fd",
+		"tenantId": "23027727-f35d-465a-bfda-76e59f6637a7"
+	}
+}
